@@ -1,5 +1,5 @@
 # Wordle
-A terminal-based version of the game [Wordle](https://www.powerlanguage.co.uk/wordle/), written in Java. 
+A terminal-based implementation of the game [Wordle](https://www.powerlanguage.co.uk/wordle/), written in Java. 
 
 ## What's Wordle?
 Each wordle is a 5 letter word. After each guess, the color of the letters will change to show how close you are to the correct word.
